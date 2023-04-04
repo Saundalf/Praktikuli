@@ -24,12 +24,18 @@
     <ClCompile Include="Meore.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="Mesame.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Pirveli.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="Meore.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
